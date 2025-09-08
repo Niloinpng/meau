@@ -23,7 +23,7 @@ export default function RootLayout() {
     if (loaded) {
       setTimeout(() => {
         setSplashVisible(false);
-      }, 2000); 
+      }, 3000); 
     }
   }, [loaded]);
 
