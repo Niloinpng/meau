@@ -66,9 +66,9 @@ const styles = StyleSheet.create({
   },
 
   footer: {
+    height: 150,
     alignItems: 'center',
-    paddingBottom: 32, 
-  },
+    justifyContent: 'center',  },
 
   title: {
     fontFamily: 'Courgette-Regular',
